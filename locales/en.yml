@@ -293,6 +293,10 @@ tools:
     title: JWT parser
     description: Parse and decode your JSON Web Token (jwt) and display its content.
 
+  jwt-encoder:
+    title: JWT encoder
+    description: Create and sign a JSON Web Token (jwt) from a header, a payload and a secret or private key.
+
   date-converter:
     title: Date-time converter
     description: Convert date and time into the various different formats
